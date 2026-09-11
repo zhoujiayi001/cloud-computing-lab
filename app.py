@@ -1,3 +1,4 @@
+# BAD CHANGE
 """快递取件通知系统 —— 贯穿全学期的 Flask + Redis Web 应用"""
 from flask import Flask, request, render_template_string
 import redis, hashlib, random, time, os
